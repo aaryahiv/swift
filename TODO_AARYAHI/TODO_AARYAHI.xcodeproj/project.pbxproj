@@ -102,12 +102,12 @@
 			isa = PBXGroup;
 			children = (
 				F49BEE991E7375490077865E /* AppDelegate.swift */,
+				F49BEECA1E73B5010077865E /* ADDTASKViewController.swift */,
 				F49BEE9B1E7375490077865E /* ViewController.swift */,
 				F49BEE9D1E7375490077865E /* Main.storyboard */,
 				F49BEEA31E7375490077865E /* Assets.xcassets */,
 				F49BEEA51E7375490077865E /* LaunchScreen.storyboard */,
 				F49BEEA81E7375490077865E /* Info.plist */,
-				F49BEECA1E73B5010077865E /* ADDTASKViewController.swift */,
 				F49BEEA01E7375490077865E /* TODO_AARYAHI.xcdatamodeld */,
 			);
 			path = TODO_AARYAHI;
@@ -516,6 +516,7 @@
 				F49BEEC31E7375490077865E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F49BEEC41E7375490077865E /* Build configuration list for PBXNativeTarget "TODO_AARYAHITests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				F49BEEC61E7375490077865E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F49BEEC71E7375490077865E /* Build configuration list for PBXNativeTarget "TODO_AARYAHIUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				F49BEEC91E7375490077865E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
